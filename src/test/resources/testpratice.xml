@@ -1,0 +1,16 @@
+<!DOCTYPE suite>
+<suite>
+    <suite name="gregressiontest">
+        <test name="tiab">
+            <classes>
+                <class name ="dfdkf">
+
+                </class>
+
+
+
+            </classes>
+        </test>
+    </suite>
+
+</suite>
